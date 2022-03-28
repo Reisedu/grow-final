@@ -4,6 +4,12 @@ a{
     color: white;
 }
 
+.link:hover{
+    color: rgb(214, 80, 147);
+
+}
+
+
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
