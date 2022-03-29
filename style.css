@@ -27,9 +27,12 @@ h3{
 }
 
 body{
-    background-color: bisque;
+    background-color: rgba(156, 154, 154, 0.959);
 }
 
+ul{
+
+}
 .conteiner{
     margin-top: 32px;
     display: flex;
@@ -73,4 +76,9 @@ body{
     border-top-right-radius: 10px;
     border: solid 5px white;
     border-left: 0px;
+}
+
+.link1{
+    border-left: solid 1px white;
+    padding-left: 10px;
 }
